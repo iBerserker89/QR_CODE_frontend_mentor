@@ -7,3 +7,5 @@ Tecnologias utilizadas:
 2. CSS
 
 Também utilizei recursos de media query para ter responsividade na página.
+
+<h2 align="center"> [QR Code](https://iberserker89.github.io/QR_CODE_frontend_mentor/) </h2>
